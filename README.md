@@ -8,7 +8,7 @@ This is a note-taking application that allows users to write simple notes with. 
 
 ## Preview
 
-
+https://drive.google.com/file/d/1aNSKIjwQfDJmEg0HkAfZdzg5r6Hwujdh/view
 
 ## Built with:
 
